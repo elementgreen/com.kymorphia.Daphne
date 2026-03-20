@@ -37,7 +37,7 @@ modules:
       - type: git
         url: https://codeberg.org/Kymorphia/daphne.git
         tag: v1.0.9
-        commit: c8b203d82b8998ef14561e188969a4c3e5daf01f
+        commit: da7ab4d6ae80acae381219c9736d68ac0011d07a
       - type: git
         url: https://github.com/Kymorphia/gid.git
         tag: v0.9.9
